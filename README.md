@@ -8,3 +8,7 @@ A collection of front end projects created using JavaScript, HTML and CSS
 # On Click Counter
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/67547010/128204553-4605577d-2d66-4acd-b2d4-9db153c7d73c.gif)
+
+# Colour Palette Generator
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67547010/128255468-aa930169-3414-439b-a159-ae09ade06620.gif)
