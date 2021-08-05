@@ -1,0 +1,51 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #8f8aa5;
+}
+.calc {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #233365;
+    width: 60%;
+    color: #A58B65;
+    padding: 40px 0;
+    margin-top: 40px;
+}
+#weightresult {
+    margin-bottom: 60px;
+}
+.userint {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.numbers {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+.heading {
+    letter-spacing: 0.05em;
+}
+#button {
+    margin: 40px 0 40px 0;
+    padding: 10px 30px;
+    border: none;
+    border-radius: 10px;
+    background-color: #A58B65;
+    color: #233365;
+}
+.numbers input {
+    margin: 0 20px;
+    border: none;
+    border-bottom: 1px solid #ABB323;
+    background-color: #233365;
+    color: #A58B65;
+    text-align: center;
+}
