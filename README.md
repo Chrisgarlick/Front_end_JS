@@ -12,3 +12,7 @@ A collection of front end projects created using JavaScript, HTML and CSS
 # Colour Palette Generator
 
 ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/67547010/128255468-aa930169-3414-439b-a159-ae09ade06620.gif)
+
+# BMI Calculator
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/67547010/128415386-8e7cbca7-2736-4f98-939f-f452fc9dacc8.gif)
