@@ -15,4 +15,5 @@ A collection of front end projects created using JavaScript, HTML and CSS
 
 # BMI Calculator
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/67547010/128415386-8e7cbca7-2736-4f98-939f-f452fc9dacc8.gif)
+![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/67547010/128415685-0f40bb06-4a1a-4b6b-993d-e8eaca455833.gif)
+
